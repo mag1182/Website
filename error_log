@@ -1,0 +1,84 @@
+[28-Mar-2019 23:33:00 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/1.php on line 636
+[28-Mar-2019 23:33:02 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/1.php on line 636
+[28-Mar-2019 23:33:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/1.php on line 636
+[28-Mar-2019 23:33:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/1.php on line 636
+[28-Mar-2019 23:33:03 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/1.php on line 636
+[28-Mar-2019 23:33:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/1.php on line 636
+[28-Mar-2019 23:33:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/1.php on line 636
+[28-Mar-2019 23:33:04 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/1.php on line 636
+[29-Mar-2019 00:05:53 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:05:55 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:05:55 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:05:57 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:07 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:28 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:36 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:36 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:36 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:36 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:36 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:36 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:36 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:36 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:36 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[29-Mar-2019 00:06:46 UTC] PHP Notice:  Undefined index: port in /home/duv3rsn7ulgs/public_html/1.php on line 139
+[31-Mar-2019 15:36:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/duv3rsn7ulgs/public_html/proxy.php on line 2
+[31-Mar-2019 15:36:06 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/duv3rsn7ulgs/public_html/proxy.php on line 2
+[31-Mar-2019 15:44:54 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/proxy.php on line 93
+[31-Mar-2019 15:44:54 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/proxy.php on line 93
+[31-Mar-2019 15:45:26 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/proxy.php on line 93
+[31-Mar-2019 15:45:27 UTC] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home/duv3rsn7ulgs/public_html/proxy.php on line 93
+[31-Mar-2019 15:48:35 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ']' in /home/duv3rsn7ulgs/public_html/proxy.php on line 156
+[31-Mar-2019 15:48:36 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ']' in /home/duv3rsn7ulgs/public_html/proxy.php on line 156
+[31-Mar-2019 15:50:31 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ']' in /home/duv3rsn7ulgs/public_html/proxy.php on line 156
+[31-Mar-2019 15:53:19 UTC] PHP Warning:  include(/proxy/mini.php): failed to open stream: No such file or directory in /home/duv3rsn7ulgs/public_html/proxy.php on line 295
+[31-Mar-2019 15:53:19 UTC] PHP Warning:  include(): Failed opening '/proxy/mini.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/duv3rsn7ulgs/public_html/proxy.php on line 295
+[31-Mar-2019 15:55:58 UTC] PHP Warning:  include(/proxy/mini.php): failed to open stream: No such file or directory in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:55:58 UTC] PHP Warning:  include(): Failed opening '/proxy/mini.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:58:55 UTC] PHP Warning:  include(/proxy/mini.php): failed to open stream: No such file or directory in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:58:55 UTC] PHP Warning:  include(): Failed opening '/proxy/mini.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:58:55 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:58:55 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:58:55 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:09 UTC] PHP Warning:  include(/proxy/mini.php): failed to open stream: No such file or directory in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:59:09 UTC] PHP Warning:  include(): Failed opening '/proxy/mini.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:59:09 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:09 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:09 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:18 UTC] PHP Warning:  include(/proxy/mini.php): failed to open stream: No such file or directory in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:59:18 UTC] PHP Warning:  include(): Failed opening '/proxy/mini.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:59:18 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:18 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:18 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:39 UTC] PHP Warning:  include(/proxy/mini.php): failed to open stream: No such file or directory in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:59:39 UTC] PHP Warning:  include(): Failed opening '/proxy/mini.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:59:39 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:39 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:39 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:41 UTC] PHP Warning:  include(/proxy/mini.php): failed to open stream: No such file or directory in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:59:41 UTC] PHP Warning:  include(): Failed opening '/proxy/mini.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 15:59:41 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:41 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 15:59:41 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 111
+[31-Mar-2019 16:01:34 UTC] PHP Warning:  include(/proxy/mini.php): failed to open stream: No such file or directory in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 16:01:34 UTC] PHP Warning:  include(): Failed opening '/proxy/mini.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 16:01:34 UTC] PHP Warning:  Use of undefined constant PROXY_PREFIX - assumed 'PROXY_PREFIX' (this will throw an Error in a future version of PHP) in /home/duv3rsn7ulgs/public_html/proxy.php on line 110
+[31-Mar-2019 16:01:34 UTC] PHP Warning:  Use of undefined constant PROXY_PREFIX - assumed 'PROXY_PREFIX' (this will throw an Error in a future version of PHP) in /home/duv3rsn7ulgs/public_html/proxy.php on line 110
+[31-Mar-2019 16:01:34 UTC] PHP Notice:  Undefined variable: landingExampleURL in /home/duv3rsn7ulgs/public_html/proxy.php on line 110
+[31-Mar-2019 16:04:52 UTC] PHP Warning:  include(/proxy/mini.php): failed to open stream: No such file or directory in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 16:04:52 UTC] PHP Warning:  include(): Failed opening '/proxy/mini.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 16:04:53 UTC] PHP Warning:  include(/proxy/mini.php): failed to open stream: No such file or directory in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 16:04:53 UTC] PHP Warning:  include(): Failed opening '/proxy/mini.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/duv3rsn7ulgs/public_html/proxy.php on line 107
+[31-Mar-2019 16:06:01 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/duv3rsn7ulgs/public_html/proxy.php on line 837
+[31-Mar-2019 16:06:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/duv3rsn7ulgs/public_html/proxy.php on line 837
+[31-Mar-2019 16:09:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/duv3rsn7ulgs/public_html/proxy.php on line 313
+[31-Mar-2019 16:09:33 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/duv3rsn7ulgs/public_html/proxy.php on line 313
+[31-Mar-2019 16:40:08 UTC] PHP Warning:  file_get_contents(http://proxy.mag1182.com): failed to open stream: HTTP request failed!  in /home/duv3rsn7ulgs/public_html/proxy.php on line 92
+[31-Mar-2019 16:42:32 UTC] PHP Warning:  file_get_contents(http://proxy.mag1182.com): failed to open stream: HTTP request failed!  in /home/duv3rsn7ulgs/public_html/proxy.php on line 92
+[31-Mar-2019 16:42:35 UTC] PHP Warning:  file_get_contents(http://proxy.mag1182.com): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/duv3rsn7ulgs/public_html/proxy.php on line 92
+[31-Mar-2019 16:42:35 UTC] PHP Warning:  file_get_contents(http://proxy.mag1182.com): failed to open stream: HTTP request failed! HTTP/1.1 503 Service Unavailable
+ in /home/duv3rsn7ulgs/public_html/proxy.php on line 92
+[31-Mar-2019 16:42:36 UTC] PHP Warning:  file_get_contents(http://proxy.mag1182.com): failed to open stream: HTTP request failed!  in /home/duv3rsn7ulgs/public_html/proxy.php on line 92
+[31-Mar-2019 16:42:36 UTC] PHP Warning:  file_get_contents(http://proxy.mag1182.com): failed to open stream: HTTP request failed!  in /home/duv3rsn7ulgs/public_html/proxy.php on line 92
+[31-Mar-2019 16:48:44 UTC] PHP Warning:  file_get_contents(http://proxy.mag1182.com): failed to open stream: HTTP request failed!  in /home/duv3rsn7ulgs/public_html/proxy.php on line 92
