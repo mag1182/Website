@@ -1,0 +1,71 @@
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : AttValue: &quot; or ' expected in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : attributes construct error in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Couldn't find end of Start Tag html line 2 in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:00 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:22:38 UTC] PHP Notice:  Undefined index: html5 in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 13
+[20-Feb-2019 17:22:38 UTC] PHP Notice:  Undefined index: view_count in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[20-Feb-2019 17:22:38 UTC] PHP Notice:  Undefined index: avg_rating in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[20-Feb-2019 17:22:38 UTC] PHP Notice:  Undefined index: vurl_r428O_CMcpI in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 52
+[20-Feb-2019 17:22:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 53
+[20-Feb-2019 17:22:42 UTC] PHP Notice:  Undefined index: html5 in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 13
+[20-Feb-2019 17:22:42 UTC] PHP Notice:  Undefined index: view_count in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[20-Feb-2019 17:22:42 UTC] PHP Notice:  Undefined index: avg_rating in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[20-Feb-2019 17:22:42 UTC] PHP Notice:  Undefined index: vurl_r428O_CMcpI in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 52
+[20-Feb-2019 17:22:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 53
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : AttValue: &quot; or ' expected in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : attributes construct error in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Couldn't find end of Start Tag html line 2 in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:53 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : AttValue: &quot; or ' expected in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : attributes construct error in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Couldn't find end of Start Tag html line 2 in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Extra content at the end of the document in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string(): &lt;html lang=en&gt; in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:23:55 UTC] PHP Warning:  simplexml_load_string():            ^ in /home/duv3rsn7ulgs/public_html/php/youtube/index.php on line 93
+[20-Feb-2019 17:39:31 UTC] PHP Notice:  Undefined index: html5 in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 13
+[20-Feb-2019 17:39:31 UTC] PHP Notice:  Undefined index: view_count in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[20-Feb-2019 17:39:31 UTC] PHP Notice:  Undefined index: avg_rating in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[20-Feb-2019 17:39:31 UTC] PHP Notice:  Undefined index: vurl_rTUt1M9rnqk in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 52
+[20-Feb-2019 17:39:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 53
+[20-Feb-2019 17:39:35 UTC] PHP Notice:  Undefined index: html5 in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 13
+[20-Feb-2019 17:39:35 UTC] PHP Notice:  Undefined index: view_count in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[20-Feb-2019 17:39:35 UTC] PHP Notice:  Undefined index: avg_rating in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[20-Feb-2019 17:39:35 UTC] PHP Notice:  Undefined index: vurl_rTUt1M9rnqk in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 52
+[20-Feb-2019 17:39:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 53
+[20-Feb-2019 17:40:58 UTC] PHP Notice:  Undefined index: html5 in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 13
+[20-Feb-2019 17:40:58 UTC] PHP Notice:  Undefined index: view_count in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[20-Feb-2019 17:40:58 UTC] PHP Notice:  Undefined index: avg_rating in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[20-Feb-2019 17:40:58 UTC] PHP Notice:  Undefined index: vurl_rTUt1M9rnqk in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 52
+[20-Feb-2019 17:40:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 53
+[21-Feb-2019 15:48:23 UTC] PHP Notice:  Undefined index: html5 in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 13
+[21-Feb-2019 15:48:23 UTC] PHP Notice:  Undefined index: view_count in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[21-Feb-2019 15:48:23 UTC] PHP Notice:  Undefined index: avg_rating in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[21-Feb-2019 15:48:23 UTC] PHP Notice:  Undefined index: vurl_DsFOmpsxeWw in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 52
+[21-Feb-2019 15:48:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 53
+[21-Feb-2019 15:48:26 UTC] PHP Notice:  Undefined index: html5 in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 13
+[21-Feb-2019 15:48:26 UTC] PHP Notice:  Undefined index: view_count in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[21-Feb-2019 15:48:26 UTC] PHP Notice:  Undefined index: avg_rating in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 39
+[21-Feb-2019 15:48:26 UTC] PHP Notice:  Undefined index: vurl_DsFOmpsxeWw in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 52
+[21-Feb-2019 15:48:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/duv3rsn7ulgs/public_html/php/youtube/skin/1/play.php on line 53
