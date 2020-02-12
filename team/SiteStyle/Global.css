@@ -1,0 +1,93 @@
+h1 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: white;
+	background-color: #EE5E0F;
+}
+
+h2 {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: #EE5E0F;
+}
+
+p {
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+#oof {
+    background-color: #635050a1;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-radius: 30px;
+    border-color:  linear-gradient(124deg, rgba(255,26,0,0.65), rgba(232,29,29,0.65), rgba(232,183,29,0.65), rgba(227,232,29,0.65), rgba(29,232, 64,0.65), rgba(29,221,232,0.65), rgba(43,29,232,0.65), rgba(221,0,243,0.65), rgba(221,0,243,0.65));
+    transition: 0.8s;
+    border-style: dotted;
+    border-width: 3px; 
+	 -webkit-animation: rainbow 9s ease infinite;
+    -z-animation: rainbow 9s ease infinite;
+    -o-animation: rainbow 9s ease infinite;
+    animation: rainbow 9s ease infinite;
+    background-size: 200% 200%;
+	 
+}
+
+
+a.logolayout {
+	z-index:-40;
+    background: linear-gradient(124deg, rgba(255,26,0,0.65), rgba(232,29,29,0.65), rgba(232,183,29,0.65), rgba(227,232,29,0.65), rgba(29,232, 64,0.65), rgba(29,221,232,0.65), rgba(43,29,232,0.65), rgba(221,0,243,0.65), rgba(221,0,243,0.65));
+    transition: 0.8s;
+    border: 1px; solid none;
+    -webkit-animation: rainbow 9s ease infinite;
+    -z-animation: rainbow 9s ease infinite;
+    -o-animation: rainbow 9s ease infinite;
+    animation: rainbow 9s ease infinite;
+    background-size: 200% 200%;
+}
+
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow {
+    0%{border-color:0% 82%}
+    50%{border-color:100% 19%}
+    100%{border-color:0% 82%}
+}
+
+a.logolayout{
+  padding: 5px;
+  display: inline-block
+}
+
+a.logolayout div{
+  padding: 5px;
+  color: #fff;
+}
+
+.bgimg{
+  padding 20px;
+ }
+
+.innerbgimg{
+
+}
